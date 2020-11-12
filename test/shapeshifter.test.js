@@ -1,5 +1,5 @@
 import { assert } from 'chai'
-import { Tx } from 'bsv'
+import { Tx } from 'bsv2'
 import Shapeshifter from '../lib/shapeshifter'
 import * as ttx from './support/test_tx.js'
 import util from 'util'
