@@ -2,7 +2,7 @@
   "name": "@libitx/shapeshifter.js",
   "version": "0.1.0",
   "description": "Shapeshifter.js lets you quickly and simply switch between Bitcoin transaction formats.",
-  "main": "dist/shapeshifter.cjs.js",
+  "main": "index.js",
   "module": "index.js",
   "unpkg": "dist/shapeshifter.min.js",
   "author": "libitx",
